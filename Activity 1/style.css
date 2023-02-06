@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.link2 li{
+    color: red;
+}
+ol li{
+    color: red;
+}
+.link li:nth-child(2n){
+    color: red;
+}
+.link li:nth-child(2n-1){
+    color: blue;
+}
+.btn,button{
+    background-color: green;
+}
+.btn + button{
+    background-color: red;
+}
+
+button{
+    background-color: blue;
+}
+
+

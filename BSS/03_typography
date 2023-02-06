@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+    <h1>Jerwin</h1>
+    <h2>Jerwin</h2>
+    <h3>Jerwin</h3>
+    <h4>Jerwin</h4>
+    <h5>Jerwin</h5>
+    <h6>Jerwin</h6>
+
+    <h1 class="display-1">Jerwin</h1>
+    <h1 class="display-2">Jerwin</h1>
+    <h1 class="display-3">Jerwin</h1>
+    <h1 class="display-4">Jerwin</h1>
+    <h1 class="display-5">Jerwin</h1>
+    <h1 class="display-6">Jerwin</h1>
+
+    <span class="fs-1">Cruz</span>
+    <span class="fs-2">Cruz</span>
+    <span class="fs-3">Cruz</span>
+    <span class="fs-4">Cruz</span>
+
+    <p class="text-decoration-line-through text-end">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam ex
+        nam id
+        harum ea ut esse sapiente expedita
+        similique quis pariatur vitae rerum eaque cupiditate, aperiam beatae adipisci doloribus a.</p>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
